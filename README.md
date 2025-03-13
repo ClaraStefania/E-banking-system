@@ -55,7 +55,7 @@ The simplified e-banking system supports the following core features:
       They can be _custom_ or _equal_ and every account needs to accept or reject the
       payment in order to be processed
     
-- the business account is a special account that can be used just by the associates
+- the **_business account_** is a special account that can be used just by the associates
 - it supports two types of reports: **_commerciant report_** and **_transaction report_**.
 The first one is used to print the commerciants and the amount of money they received and
 the second one is monitoring the transactions between the associates
